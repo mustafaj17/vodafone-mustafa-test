@@ -1,0 +1,11 @@
+{
+  "name": "vodafone-mustafa",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-modules --experimental-json-modules index.js"
+  },
+  "license": "ISC"
+}

@@ -1,0 +1,5 @@
+[
+  { "state" : "processing" },
+  { "state" : "processing" },
+  { "state" : "error", "message": "INCORRECT_DETAILS" }
+]
